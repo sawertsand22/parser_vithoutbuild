@@ -1,0 +1,4 @@
+/home/sawert/qtprojects/buld/CMakeFiles/rebuild_cache.dir
+/home/sawert/qtprojects/buld/CMakeFiles/edit_cache.dir
+/home/sawert/qtprojects/buld/CMakeFiles/pars.dir
+/home/sawert/qtprojects/buld/CMakeFiles/pars_autogen.dir
